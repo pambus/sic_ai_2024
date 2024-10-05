@@ -1,0 +1,8 @@
+Gestión de Pabellones 
+
+Se desea realizar un sistema que permita optimizar el uso de pabellones quirúrgicos. El sistema se debe alimentar a partir de un algoritmo que sea capaz de revisar fichas de cirugías anteriores. Con este proceso el sistema será capaz de “predecir” al momento de agendar una nueva cirugía los tiempos estimados, el tipo o pabellón requerido, personal involucrado por cargo o tarea que realiza, apoyos adicionales necesarios, tiempo de duración, podrá proponer instrumental, entre otras cosas. Todo esto basándose en la experiencia obtenida al revisar las fichas de cirugías ya realizadas.
+Cada cirugía de distintas especialidades está definida o compuesta de una cantidad de profesionales de acuerdo a un protocolo existente. A su vez, cada tarea dentro de cada una de las cirugías está compuesto de una lista de profesionales que realizan esa tarea (Ej. tarea de anestesista) y también existirá una lista de profesionales que realizan esa tarea.
+Por lo tanto, existirán equipos de profesionales que trabajarán juntos en las cirugías, estos equipos iniciales o bases estarán compuestos por todos los profesionales seleccionados por un encargado o responsable de la cirugía que elegirá los profesionales de acuerdo a su experiencia o interés, este responsable define su equipo de trabajo.
+
+Integrantes:
+Pamela Bustamante F.
